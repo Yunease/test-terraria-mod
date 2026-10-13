@@ -1,0 +1,24 @@
+# .NET 构建产物
+bin/
+obj/
+*.dll
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+
+# tModLoader 打包产物
+*.tmod
+*.tmod.zip
+*.log
+
+# IDE / 编辑器
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
