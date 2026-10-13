@@ -1,0 +1,16 @@
+{
+  "Mods.StarforgedWeapons.Items.StarShardDagger.DisplayName": "Star Shard Dagger",
+  "Mods.StarforgedWeapons.Items.StarShardDagger.Tooltip": "A swift dagger forged from fallen star shards.",
+
+  "Mods.StarforgedWeapons.Items.StardustLongbow.DisplayName": "Stardust Longbow",
+  "Mods.StarforgedWeapons.Items.StardustLongbow.Tooltip": "Fires star-charged arrows with remarkable range.",
+
+  "Mods.StarforgedWeapons.Items.FallingStarWand.DisplayName": "Falling Star Wand",
+  "Mods.StarforgedWeapons.Items.FallingStarWand.Tooltip": "Channels stellar energy into piercing diamond bolts.",
+
+  "Mods.StarforgedWeapons.Items.StellarRevolver.DisplayName": "Stellar Revolver",
+  "Mods.StarforgedWeapons.Items.StellarRevolver.Tooltip": "A hardmode sidearm that fires rounds of pure light.",
+
+  "Mods.StarforgedWeapons.Items.VoidCleaver.DisplayName": "Void Cleaver",
+  "Mods.StarforgedWeapons.Items.VoidCleaver.Tooltip": "A post-Plantera blade that cuts through both flesh and void."
+}
