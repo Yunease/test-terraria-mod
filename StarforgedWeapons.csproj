@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="$(SolutionDir)..\tModLoader.targets" Condition="Exists('$(SolutionDir)..\tModLoader.targets')" />
+
+  <PropertyGroup>
+    <AssemblyName>StarforgedWeapons</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>10.0</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="tModLoader">
+      <HintPath>$(tModLoaderPath)tModLoader.dll</HintPath>
+    </Reference>
+    <Reference Include="Terraria">
+      <HintPath>$(tModLoaderPath)Terraria.exe</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

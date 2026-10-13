@@ -1,0 +1,6 @@
+displayName = Starforged Weapons
+author = YourName
+version = 0.1
+homepage = 
+includePDB = false
+side = Both
